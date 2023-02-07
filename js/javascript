@@ -1,1 +1,5 @@
 // java script document
+function saludo() {
+
+    alert ("Hola alumnos");
+}
