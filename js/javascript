@@ -1,5 +1,5 @@
 // java script document
 function saludo() {
 
-    alert ("Hola alumnos Hola gente 2 2");
+    alert ("Hola alumnos Hola gente 3 y 3");
 }
