@@ -1,4 +1,4 @@
 // java script documento
 function saludo(){
-    alert ("Hola alumnos");
+    alert ("Hola alumnos Hola gente 3");
 }
